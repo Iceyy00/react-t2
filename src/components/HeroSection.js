@@ -6,7 +6,7 @@ import './HeroSection.css';
 const HeroSection = () => {
   return (
     <div className='hero-container'>
-      <h1>ADVENTURE AWAITS..</h1>
+      <h1>ADVENTURE AWAITS.</h1>
       <p>What are you waiting for?</p>
       <div className="hero-btns">
         <button 
