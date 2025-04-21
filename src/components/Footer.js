@@ -11,7 +11,7 @@ function Footer () {
              Join the newsletter to receive our best offers
         </p>
         <p className="footer-subscription-text">
-            You can unsubscribe at any time.
+            You can unsubscribe at any time
         </p>
         <div className="input-areas">
             <form>
